@@ -2,7 +2,7 @@
   "app_name": "Три Топора",
   "status": "working",
   "database": "connected",
-  "payments": true,
+  "payments": false,
   "magic": {
     "rivers": "normal",
     "clouds": "up",
